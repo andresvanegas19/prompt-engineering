@@ -1,4 +1,4 @@
-# Prompt engineering
+# Real life prompt engineering examples
 Here is a guide on examples of using the theory on real examples
 
 ### Guide from (NEED TO READ)
