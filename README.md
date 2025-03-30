@@ -12,6 +12,8 @@ Here is a guide on examples of using the theory on real examples
 - Linkedlin learning of prompting https://github.com/LinkedInLearning/advanced-prompt-engineering-techniques-3817061
 - Resources of prompting https://www.reddit.com/r/PromptEngineering/comments/18hhvi3/resources_that_dramatically_improved_my_prompting/
 - MSFT guide https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering?tabs=chat
+- https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction?courseName=chatgpt-prompt-eng
+  
 
 ### Recommended courses
 - https://dair-ai.thinkific.com/bundles/pro#see-more
